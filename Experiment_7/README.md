@@ -1,6 +1,4 @@
-from pathlib import Path
 
-readme = r"""# CS3807 – Deep Learning Laboratory
 ## Experiment 7: Autoencoders, Convolutional Autoencoders, Denoising Autoencoders and Variational Autoencoders
 
 This repository contains the implementation, plots, results, and report for the CS3807 Deep Learning Laboratory experiment on autoencoders using the MNIST handwritten digit dataset.
